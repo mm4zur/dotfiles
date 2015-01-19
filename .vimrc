@@ -11,6 +11,7 @@ Plugin 'bling/vim-airline'
 Plugin 'kien/ctrlp.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'ervandew/supertab'
+Plugin 'sickill/vim-monokai'
 
 " All of your Plugins must be added before the following line
 call vundle#end()               " required by Vundle
